@@ -7,8 +7,7 @@ import Home from "./components/Home";
 export default function App() {
   const [fontsLoaded, error] = useFonts({
     Marmelat500Medium: require("./assets/fonts/marmelat/marmelat-medium.otf"),
-    Marmelat700Bold: require("./assets/fonts/marmelat/marmelat-bold.otf"),
-    Marmelat800Book: require("./assets/fonts/marmelat/marmelat-book.otf")
+    Marmelat700Bold: require("./assets/fonts/marmelat/marmelat-bold.otf")
   });
 
   if (!fontsLoaded && !error) {

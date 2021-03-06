@@ -160,7 +160,7 @@ const Home = () => {
 
   return (
     <View style={styles.container}>
-      <StatusBar hidden={true} />
+      <StatusBar translucent={true} backgroundColor="#FFFFFF66" />
 
       {movies && <Backdrop movies={movies} scrollX={scrollX} />}
 
