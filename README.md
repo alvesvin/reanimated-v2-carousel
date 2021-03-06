@@ -1,5 +1,5 @@
 # Reanimated V2 Carousel
-This is an animated carousel using React Reanimated V2 ~copied from~ inspired by [Catalin Miron](https://youtu.be/yV-2HRzNX9o).
+This is an animated carousel using React Native Reanimated V2 ~copied from~ inspired by [Catalin Miron](https://youtu.be/yV-2HRzNX9o).
 
 ## How to use
 If you will to test it yourself, you'll need to get your API keys on [The Movie Database](https://themoviedb.org) as this project uses its API to fetch data.
