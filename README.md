@@ -7,7 +7,7 @@ If you will to test it yourself, you'll need to get your API keys on [The Movie 
 The needed `.env` look like this:
 
 ```properties
-TMDB_TOKEN=<your_v4_bearer_token>
+TMDB_AUTH_TOKEN=<your_v4_bearer_token>
 TMDB_API_URL=https://api.themoviedb.org/3
 TMDB_IMAGES_URL=https://image.tmdb.org/t/p/original
 ```
